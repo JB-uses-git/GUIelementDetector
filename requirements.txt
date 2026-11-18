@@ -1,0 +1,10 @@
+torch>=2.2
+torchvision
+ultralytics>=8.3
+gradio>=4.0
+opencv-python
+pillow
+matplotlib
+pandas
+# optional stretch: OCR for "tap Login"
+easyocr

@@ -1,0 +1,25 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.cache
+
+# Dataset folders (large binary data)
+data/raw/
+data/yolo/
+
+# Pretrained base weights
+weights/
+
+# Training checkpoint intermediate weights
+results/runs/*/weights/last.pt
+
+# OS generated files
+.DS_Store
+Thumbs.db
+*.tmp

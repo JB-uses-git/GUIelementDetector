@@ -1,0 +1,6 @@
+- 1_good: Rico_53697.jpg | GT 5, pred 5, P=1.00 R=1.00 F1=1.00 | GT classes {'Text': 3, 'Image': 1, 'PageIndicator': 1}
+- 2_good: Rico_40951.jpg | GT 6, pred 6, P=1.00 R=1.00 F1=1.00 | GT classes {'Text': 4, 'Image': 1, 'PageIndicator': 1}
+- 3_good: Rico_3720.jpg | GT 6, pred 6, P=1.00 R=1.00 F1=1.00 | GT classes {'Text': 3, 'TextButton': 1, 'Image': 1, 'UpperTaskBar': 1}
+- 4_fail: iphone_IMG_3890.jpg | GT 8, pred 29, P=0.28 R=1.00 F1=0.43 | GT classes {'Text': 3, 'Icon': 1, 'TextButton': 1, 'Image': 1, 'Modal': 1, 'UpperTaskBar': 1}
+- 5_fail: Rico_12718.jpg | GT 8, pred 15, P=0.33 R=0.62 F1=0.43 | GT classes {'Text': 4, 'Image': 1, 'PageIndicator': 1, 'Icon': 1, 'UpperTaskBar': 1}
+- 6_fail: Rico_52410.jpg | GT 6, pred 3, P=0.67 R=0.33 F1=0.44 | GT classes {'Text': 2, 'Image': 1, 'PageIndicator': 1, 'BackgroundImage': 1, 'UpperTaskBar': 1}

@@ -1,0 +1,298 @@
+[
+  {
+    "class": "TextButton",
+    "class_id": 3,
+    "confidence": 0.965,
+    "box": {
+      "x": 15,
+      "y": 1065,
+      "w": 691,
+      "h": 95
+    },
+    "center": [
+      360,
+      1112
+    ],
+    "text": "Continue Shopping"
+  },
+  {
+    "class": "Text",
+    "class_id": 0,
+    "confidence": 0.963,
+    "box": {
+      "x": 148,
+      "y": 734,
+      "w": 422,
+      "h": 94
+    },
+    "center": [
+      359,
+      781
+    ],
+    "text": "This is where you save your items You can now see if are available; reserved, and sold: they"
+  },
+  {
+    "class": "Icon",
+    "class_id": 1,
+    "confidence": 0.936,
+    "box": {
+      "x": 340,
+      "y": 1198,
+      "w": 40,
+      "h": 40
+    },
+    "center": [
+      360,
+      1218
+    ]
+  },
+  {
+    "class": "Icon",
+    "class_id": 1,
+    "confidence": 0.932,
+    "box": {
+      "x": 628,
+      "y": 1199,
+      "w": 41,
+      "h": 34
+    },
+    "center": [
+      648,
+      1216
+    ]
+  },
+  {
+    "class": "Text",
+    "class_id": 0,
+    "confidence": 0.931,
+    "box": {
+      "x": 217,
+      "y": 625,
+      "w": 288,
+      "h": 29
+    },
+    "center": [
+      361,
+      639
+    ],
+    "text": "Favorite items you love:"
+  },
+  {
+    "class": "Text",
+    "class_id": 0,
+    "confidence": 0.93,
+    "box": {
+      "x": 279,
+      "y": 79,
+      "w": 163,
+      "h": 30
+    },
+    "center": [
+      360,
+      94
+    ],
+    "text": "Favorites"
+  },
+  {
+    "class": "Icon",
+    "class_id": 1,
+    "confidence": 0.924,
+    "box": {
+      "x": 196,
+      "y": 1199,
+      "w": 41,
+      "h": 37
+    },
+    "center": [
+      216,
+      1217
+    ]
+  },
+  {
+    "class": "Image",
+    "class_id": 2,
+    "confidence": 0.924,
+    "box": {
+      "x": 246,
+      "y": 149,
+      "w": 225,
+      "h": 349
+    },
+    "center": [
+      358,
+      323
+    ]
+  },
+  {
+    "class": "Text",
+    "class_id": 0,
+    "confidence": 0.91,
+    "box": {
+      "x": 627,
+      "y": 1246,
+      "w": 43,
+      "h": 17
+    },
+    "center": [
+      648,
+      1254
+    ],
+    "text": "Cart"
+  },
+  {
+    "class": "Icon",
+    "class_id": 1,
+    "confidence": 0.909,
+    "box": {
+      "x": 487,
+      "y": 1198,
+      "w": 35,
+      "h": 38
+    },
+    "center": [
+      504,
+      1217
+    ]
+  },
+  {
+    "class": "Text",
+    "class_id": 0,
+    "confidence": 0.909,
+    "box": {
+      "x": 326,
+      "y": 1245,
+      "w": 67,
+      "h": 18
+    },
+    "center": [
+      359,
+      1254
+    ],
+    "text": "Search"
+  },
+  {
+    "class": "Icon",
+    "class_id": 1,
+    "confidence": 0.907,
+    "box": {
+      "x": 52,
+      "y": 1199,
+      "w": 42,
+      "h": 36
+    },
+    "center": [
+      73,
+      1217
+    ]
+  },
+  {
+    "class": "Text",
+    "class_id": 0,
+    "confidence": 0.894,
+    "box": {
+      "x": 465,
+      "y": 1246,
+      "w": 79,
+      "h": 17
+    },
+    "center": [
+      504,
+      1254
+    ],
+    "text": "Account"
+  },
+  {
+    "class": "Text",
+    "class_id": 0,
+    "confidence": 0.876,
+    "box": {
+      "x": 44,
+      "y": 1246,
+      "w": 57,
+      "h": 17
+    },
+    "center": [
+      72,
+      1254
+    ],
+    "text": "Home"
+  },
+  {
+    "class": "Text",
+    "class_id": 0,
+    "confidence": 0.873,
+    "box": {
+      "x": 172,
+      "y": 1246,
+      "w": 88,
+      "h": 18
+    },
+    "center": [
+      216,
+      1255
+    ],
+    "text": "Favorites"
+  },
+  {
+    "class": "Icon",
+    "class_id": 1,
+    "confidence": 0.716,
+    "box": {
+      "x": 418,
+      "y": 534,
+      "w": 16,
+      "h": 49
+    },
+    "center": [
+      426,
+      558
+    ]
+  },
+  {
+    "class": "EditText",
+    "class_id": 5,
+    "confidence": 0.695,
+    "box": {
+      "x": 5,
+      "y": 0,
+      "w": 715,
+      "h": 44
+    },
+    "center": [
+      362,
+      22
+    ],
+    "text": "8 &all 64% 12.55 AM"
+  },
+  {
+    "class": "UpperTaskBar",
+    "class_id": 4,
+    "confidence": 0.524,
+    "box": {
+      "x": 6,
+      "y": 0,
+      "w": 709,
+      "h": 43
+    },
+    "center": [
+      360,
+      21
+    ]
+  },
+  {
+    "class": "Text",
+    "class_id": 0,
+    "confidence": 0.279,
+    "box": {
+      "x": 9,
+      "y": 9,
+      "w": 132,
+      "h": 25
+    },
+    "center": [
+      75,
+      21
+    ],
+    "text": "3"
+  }
+]

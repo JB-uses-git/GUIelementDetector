@@ -1,0 +1,4 @@
+size,gt_boxes,recall
+small,4178,0.926
+medium,3615,0.927
+large,1660,0.925

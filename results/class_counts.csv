@@ -1,0 +1,14 @@
+class,train,val,test,total
+Text,20659,4317,4348,29324
+Icon,7941,1623,1684,11248
+Image,5807,1253,1205,8265
+TextButton,3319,734,741,4794
+UpperTaskBar,2653,569,564,3786
+EditText,1779,302,348,2429
+PageIndicator,952,233,221,1406
+CheckedTextView,642,147,101,890
+BackgroundImage,445,87,91,623
+Modal,229,45,44,318
+Toolbar,177,37,30,244
+Drawer,174,43,31,248
+Switch,146,40,45,231
